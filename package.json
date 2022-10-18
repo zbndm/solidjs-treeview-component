@@ -1,0 +1,19 @@
+{
+  "name": "solidjs-treeview-component",
+  "version": "0.0.1",
+  "description": "TreeView component for SolidJS",
+  "scripts": {
+    "start": "vite --clearScreen false",
+    "build": "vite build"
+  },
+  "module": "src/TreeView.jsx",
+
+  "dependencies": {
+    "solid-styled-components": "latest"
+  },
+  "devDependencies": {
+    "solid-js": "latest",
+    "vite": "latest",
+    "vite-plugin-solid": "latest"
+  }
+}
